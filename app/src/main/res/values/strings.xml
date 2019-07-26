@@ -1,4 +1,5 @@
 <resources>
   <string name="app_name">RandomizerNumber</string>
   <string name="roll">roll</string>
+  <string name="how_many">How Many?</string>
 </resources>
